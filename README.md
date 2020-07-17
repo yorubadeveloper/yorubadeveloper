@@ -1,12 +1,6 @@
 ### Hi there, I'm Bukunmi👋
 ---
 
-<p align="center">
-  <img width="250" src="https://avatars0.githubusercontent.com/u/36689325?s=460&u=241c2a65eb75f7f84427ffa3542891a151de5dfb&v=4">
-</p>
-
----
-
 ### I'm a Full-Stack Developer based in Nigeria.
 
 - 🏢 I'm currently working full-time at ***JobNinjaEU, Germany***
