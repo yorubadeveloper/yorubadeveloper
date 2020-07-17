@@ -5,6 +5,7 @@
   <img width="250" src="https://avatars0.githubusercontent.com/u/36689325?s=460&u=241c2a65eb75f7f84427ffa3542891a151de5dfb&v=4">
 </p>
 
+---
 
 ### I'm a Full-Stack Developer based in Nigeria.
 
@@ -19,6 +20,5 @@
 - 🌐 Updating my personal website with examples of my work on <a href="https://bukunmiweb.site">BukunmiWeb🌍</a>
 
 ---
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=yorubadeveloper&show_icons=true&hide_border=true)
 
 ⭐️ From [Yorubadeveloper](https://github.com/yorubadeveloper)
