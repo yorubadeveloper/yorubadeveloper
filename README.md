@@ -10,7 +10,7 @@
 - 📫 How to reach me: ***<a href="https://twitter.com/bukunmi_dev/">Twitter</a> or <a href="mailto:bukunmiadewale3@gmail.com">Email</a>***
 - 😄 Pronouns: ***He/Him***
 - ⚡ Fun fact: I'm an ***actual foodie, a partial polymath and an aspiring geek***
-- 🎧 Mostly likely listening to a jam by ***Mayorkun, Davido, Burna, Fireboy or Tom Rosenthal***
+- 🎧 Mostly likely listening to ***Tom Rosenthal or Burna Boy***
 - 🌐 Checkout my personal website on ***<a href="https://bukunmiweb.site">BukunmiWeb🌍</a>***
 
 ---
